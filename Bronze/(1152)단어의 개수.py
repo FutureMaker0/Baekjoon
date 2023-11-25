@@ -1,5 +1,4 @@
 N = str(input())
-# print(N)
 
 cnt = 0
 for i in N.split():
